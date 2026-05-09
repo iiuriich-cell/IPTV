@@ -42,7 +42,7 @@ rtmp://vkvsd217.okcdn.ru/playback/11389327911930?stkn=LTAFNvTeOuC2N8-0gVbKS3Meyb
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/11149.png",DanceHits 80'
 http://dancehits80.denvs.ru:8080/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg", ОБНОВЛЕНИЕ: 05.05 23:00
+#EXTINF:-1 tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg", ОБНОВЛЕНИЕ: 05.05.26 23:00
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WtNC0wTM/ritsatv-Photoroom.png",Ritsа TV
 https://vsd81.okcdn.ru/hls/13157303716566.m3u8/sig/poSXxqB49KM/expires/1777795968142/srcIp/95.71.38.190/urls/185.226.55.76/clientType/0/srcAg/CHROME/mid/13301979946710/13157303716566_fullhd/index.m3u8
