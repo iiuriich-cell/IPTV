@@ -42,7 +42,7 @@ rtmp://vkvsd217.okcdn.ru/playback/11389327911930?stkn=LTAFNvTeOuC2N8-0gVbKS3Meyb
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/11149.png",DanceHits 80'
 http://dancehits80.denvs.ru:8080/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg", ОБНОВЛЕНИЕ: 11.05 11:05
+#EXTINF:-1 tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg", ОБНОВЛЕНИЕ: 16.05 19:00
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WtNC0wTM/ritsatv-Photoroom.png",Ritsа TV
 https://vsd81.okcdn.ru/hls/13157303716566.m3u8/sig/poSXxqB49KM/expires/1777795968142/srcIp/95.71.38.190/urls/185.226.55.76/clientType/0/srcAg/CHROME/mid/13301979946710/13157303716566_fullhd/index.m3u8
@@ -52,7 +52,7 @@ rtmp://vkvsd278.okcdn.ru/playback/3875131370470?stkn=ZuKFN9N1kSG_wooEVpBoKNP-ZYK
 rtmp://vkvsd228.okcdn.ru/playback/7241479891769?stkn=r5-Eg6uRgdaHEmI0YaWENaLOin1UveH9BfGYPPirO18Udm400bEsZd1zxzBGwOcQmuH2h3AaWAc&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WqZgCDL6/Screenshot-25-(1).png",Ritsa Eurodance TV
-https://vkvsd55.okcdn.ru/cmaf/15172499606185/sig/WQCZtNb9INQ/srcIp/162.158.182.134/urls/45.136.21.60/expires/1778944509917/clientType/13/srcAg/CHROME/fromCache/1/mid/14144400141225/id/15172499606185/get/CKnXyP_TmwMQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCADNNk51ZIIbQ/track.m3u8
+https://vkvsd211.okcdn.ru/cmaf/15172499606185/sig/BmclCuNOWT8/srcIp/172.71.183.47/urls/185.226.55.77/expires/1779407309803/clientType/13/srcAg/CHROME/fromCache/1/mid/14144400141225/id/15172499606185/get/CKnXyP_TmwMQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCADNNk51ZIIbQ/track.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WqZgCDL6/Screenshot-25-(1).png",Ritsа Eurodance TV (ВК)
 rtmp://vkvsd32.okcdn.ru/playback/7267278793604?stkn=S3xo_08oLxhHIafR9X2G3eDMm1Tyx6hjFOyjYd5fyI_AdbnoB8p6ebiMPxEyoGo7ip73Q5vIFCc&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
