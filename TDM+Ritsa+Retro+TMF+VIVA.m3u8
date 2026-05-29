@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PCgmXbDC/444.png",Retrо Music 1980-2000
-rtmp://vkvsd235.okcdn.ru/playback/9665769450423?stkn=1I4amzXOiiPuPhM0Y8PXUwEpnDyXYT-1q2CZoEeHeg480EuJ09lL4ViBsFNGSbFofRdRZbMl8Uw&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PCgmXbDC/444.png",Rеtrо Music 1980-2000
 rtmp://vkvsd286.okcdn.ru/playback/9665769450423?stkn=-3V1oF2xBYyqYcT0us2NG73YiC9zb--2g0PQOxqO7FSgBj1ru2TBsJYbEMuSc5wVAz_cVA7CdJw&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9crat1a.png",Тechno Dancе Music
@@ -21,7 +19,7 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=vp
 #EXTINF:-1 tvg-logo="https://bittv.ltd/images/icon/200x200/music/viva-rus1.png",VIVA Russiа
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=sTBFSsE14Alj6NHtxf_iew&e=2073777468&scheme=https
 #EXTINF:-1 tvg-logo="https://bittv.ltd/images/icon/200x200/music/viva-rus1.png",VIVA Russia HD
-rtmp://vkvsd216.okcdn.ru/playback/3061469817778?stkn=Je9n-2Mm82mlL3XkpA2Gg_X0AxbBui8kQzQ_e5f4xFbEcncLjaG2_A8ES0_s9FtnXpKurMVHXlU&uid=0&sp=uid,sp&sig=vlibqm4nyu
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://filmax-tv.ru/storage/images/channels/c1008775f3558022e4294e0604be8bd2.png?d=1761909625",VIVA Classics
 rtmp://vkvsd61.okcdn.ru/playback/7847538011076?stkn=fkwAuHrqQ3EwZpzQKDAzHs2KvZDZhv1QAeNITV7Sa7HVXYNmbYXqWs-xrpEQYsFYyqqxKV2jyJw&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Od34LqF.png",TMF RUS
@@ -57,6 +55,8 @@ https://vkvsd249.okcdn.ru/cmaf/15172499606185/sig/qetbRzAb9m4/srcIp/104.23.170.4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WqZgCDL6/Screenshot-25-(1).png",Ritsа Eurodance TV (ВК)
 rtmp://vkvsd32.okcdn.ru/playback/7267278793604?stkn=S3xo_08oLxhHIafR9X2G3eDMm1Tyx6hjFOyjYd5fyI_AdbnoB8p6ebiMPxEyoGo7ip73Q5vIFCc&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PCgmXbDC/444.png",Retrо Music 1980-2000
+rtmp://vkvsd235.okcdn.ru/playback/9665769450423?stkn=1I4amzXOiiPuPhM0Y8PXUwEpnDyXYT-1q2CZoEeHeg480EuJ09lL4ViBsFNGSbFofRdRZbMl8Uw&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PCgmXbDC/444.png",Retro Music 1980-2000
 http://195.9.195.3:8080/hls/206244.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9crat1a.png",Techno Dance Music
@@ -68,7 +68,8 @@ https://ritsatv.ru/files/poster/medium/900988.jpg  MCM 90s
 https://i.postimg.cc/75JFFKWD/Screenshot-1-Photoroom.png  ММТВ
 https://filmax-tv.ru/storage/images/channels/c1008775f3558022e4294e0604be8bd2.png?d=1761909625  VIVA Classics
 
-rtmp://vkvsd66.okcdn.ru/playback/7765205854979?stkn=fFn4j4lPqFN8jwphkONJK5DZDolRSnMSw_nWIG_N3pi516JfPsdbFHraPMJ49QUYFIaNqY7z1JM&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1  REТRO Musiс Hits
-rtmp://vkvsd233.okcdn.ru/playback/7847538011076?stkn=vlVyaS1a1zXX1cYaj6dvQB5jK_C0uGRmZvhLbSvOaNrx-UrmOPbMdx6rumtoiUsTUXh2W4vIQ3Q&uid=0&sp=uid,sp&sig=vlibqm4nyu   VIVA Classics
-rtmp://vkvsd217.okcdn.ru/playback/11389327911930?stkn=LTAFNvTeOuC2N8-0gVbKS3MeybNvJFVnRSw8U5Tl0FMrFJ_ZQa_UcdE1VstY8Jm-q9qRG5-oUoRY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1  MCM 90s
-rtmp://vkvsd236.okcdn.ru/playback/5952405842693?stkn=EjpHjAnNp0AeC4XhZReKllAEDqwCJQKNGcjGcf0x5T9e2VTkc7C9_2b0GmFfvbgSZoKMHpneBUk&uid=0&sp=uid,sp&sig=vlibqm4nyu   ТMF RUS
+#rtmp://vkvsd66.okcdn.ru/playback/7765205854979?stkn=fFn4j4lPqFN8jwphkONJK5DZDolRSnMSw_nWIG_N3pi516JfPsdbFHraPMJ49QUYFIaNqY7z1JM&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1  REТRO Musiс Hits
+#rtmp://vkvsd233.okcdn.ru/playback/7847538011076?stkn=vlVyaS1a1zXX1cYaj6dvQB5jK_C0uGRmZvhLbSvOaNrx-UrmOPbMdx6rumtoiUsTUXh2W4vIQ3Q&uid=0&sp=uid,sp&sig=vlibqm4nyu   VIVA Classics
+#rtmp://vkvsd217.okcdn.ru/playback/11389327911930?stkn=LTAFNvTeOuC2N8-0gVbKS3MeybNvJFVnRSw8U5Tl0FMrFJ_ZQa_UcdE1VstY8Jm-q9qRG5-oUoRY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1  MCM 90s
+#rtmp://vkvsd236.okcdn.ru/playback/5952405842693?stkn=EjpHjAnNp0AeC4XhZReKllAEDqwCJQKNGcjGcf0x5T9e2VTkc7C9_2b0GmFfvbgSZoKMHpneBUk&uid=0&sp=uid,sp&sig=vlibqm4nyu   ТMF RUS
+#rtmp://vkvsd46.okcdn.ru/playback/12631671843640?stkn=LfcfL0A8l5kst7f-q1uvmq0QDXxnluAaYoB0hnFyR3ZiChmeP4s_4BO0L0T6nXXi131qhMxstcA0&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1  ОldHit TV
