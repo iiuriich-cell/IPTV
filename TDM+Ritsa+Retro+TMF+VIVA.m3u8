@@ -24,6 +24,7 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=sT
 #EXTINF:-1 tvg-logo="https://bittv.ltd/images/icon/200x200/music/viva-rus1.png",VIVA Russia HD
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Od34LqF.png",TMF RUS
+https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Od34LqF.png",ТМF RUS
 https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Od34LqF.png", ТMF RUS
