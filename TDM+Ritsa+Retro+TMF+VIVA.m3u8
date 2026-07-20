@@ -30,7 +30,7 @@ https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Od34LqF.png", ТMF RUS
 rtmp://vkvsd266.okcdn.ru/playback/5952405842693?stkn=kXoBN7eHiVnQ1X0cDAteDEUL1P6BHxi1Mf4kzL3uRgO4TeyGkPlVQNEw12w4LEq5Sghn0i8G86Q&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_udZkGyvxrIqGwXSictO5vFQlL1fd8n5NFEuPKzKXk.png", MMТB
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_udDYPZVxW0jVQCs6EyF8UZKEnGJjkRzdwpv4TTGQ6.png", MMТB
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=fwC4gtS6IH6BEfW7y-yVnQ&e=2069419620&scheme=https
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/75JFFKWD/Screenshot-1-Photoroom.png", MMTB
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Mn0zcNb_7CJ_LE91r5mKdw&e=2066519853&scheme=https
