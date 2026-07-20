@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PCgmXbDC/444.png",Retrо Music 1980-2000
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ur2u4Q1x0zUHirDRNno5Iz0nQQKQDqigswYgEIYPL.png",Retrо Music 1980-2000
 rtmp://vkvsd235.okcdn.ru/playback/9665769450423?stkn=1I4amzXOiiPuPhM0Y8PXUwEpnDyXYT-1q2CZoEeHeg480EuJ09lL4ViBsFNGSbFofRdRZbMl8Uw&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PCgmXbDC/444.png",Rеtrо Music 1980-2000
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ur2u4Q1x0zUHirDRNno5Iz0nQQKQDqigswYgEIYPL.png",Rеtrо Music 1980-2000
 rtmp://vkvsd278.okcdn.ru/playback/9665769450423?stkn=bOA6oUM_SfaqGnLgTSFC142orP9HHAKyLfeGnBwhY_taHpAzzbAY6bzys4Jc9q-lVHVKLESkwvQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9crat1a.png",Тechno Dancе Music
 rtmp://vkvsd260.okcdn.ru/playback/4541149555686?stkn=_GLaJIlrWpbJgXi_b5gtNKlx404aCHbd48x9zKalkpUqDF0ccnViROdGa7iV8JjrPLmm0qJTU0w&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GTytmwMW/Screenshot-11.png",REТRO Musiс Hits
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ubWrdI7xI3Z8EunyGcIaSsez9yKYhnUTOPKAf5JFc.png",REТRO Musiс Hits
 rtmp://vkvsd285.okcdn.ru/playback/7765205854979?stkn=3YIqbICN3HQXqSqHe0t6L_U4aObzKpZdQDqaZigiXarsKvoVAU1g9ABrdjLIO7hYZdJPsBcdTGk&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WtNC0wTM/ritsatv-Photoroom.png",Ritsa TV (Bit)
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uHJqVpmxP5OIj4DpRI8MMsrH2uMhYZ8VzeNcNfJBn.png",Ritsa TV (Bit)
 http://cdn.bittv.ltd/bigteisti10/08946984/index.m3u8?token=Y3hlMzd2eW11ZTpxcjdhN2x4dHVy
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WqZgCDL6/Screenshot-25-(1).png",Ritsa Eurodance TV (Bit)
 http://cdn.bittv.ltd/bigteisti19/08946978/index.m3u8?token=Y3hlMzd2eW11ZTpxcjdhN2x4dHVy
@@ -42,22 +42,24 @@ rtmp://vkvsd246.okcdn.ru/playback/12631671843640?stkn=4xESTdJvueaCk1i-u9xjoMTDQE
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s1q2DQSS/VB.png",VB MTV Old Россия
 rtmp://vkvsd181.okcdn.ru/playback/10851904072503?stkn=iYXttSEqecJ8IAigioaMNeVNdaGV4sUogDbjHlKAFJSyddNPxHZ2-95vhBV3ZKVKZnXtCSTkrDV-&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="http://movies.global-media.info:81/logo/globalmedia_tv.png",GlobalMedia Музыка
+http://cdn.olsibtv.org:9999/channel/n4a339dee/index.mpeg?q=76ac36a5897218f529df49eb50355990
 
 #EXTINF:-1 tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg", ОБНОВЛЕНИЕ: 15.07 14:00
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WtNC0wTM/ritsatv-Photoroom.png",Ritsа TV
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uHJqVpmxP5OIj4DpRI8MMsrH2uMhYZ8VzeNcNfJBn.png",Ritsа TV
 https://vsd68.okcdn.ru/hls/16435944098518.m3u8/sig/jKkC5K9lFzU/srcIp/141.101.76.64/urls/95.163.35.99/expires/1782246733292/clientType/0/srcAg/CHROME/mid/15065312337622/16435944098518_fullhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WtNC0wTM/ritsatv-Photoroom.png",Ritsa TV (ВК1)
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uHJqVpmxP5OIj4DpRI8MMsrH2uMhYZ8VzeNcNfJBn.png",Ritsa TV (ВК1)
 rtmp://vkvsd278.okcdn.ru/playback/3875131370470?stkn=ZuKFN9N1kSG_wooEVpBoKNP-ZYKyO3bxEqkmYiF2OQg8bSZXLxW1qMHlBHVNbeB0JdRAhvHQTbs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WtNC0wTM/ritsatv-Photoroom.png",Ritsа TV (ВК2)
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uHJqVpmxP5OIj4DpRI8MMsrH2uMhYZ8VzeNcNfJBn.png",Ritsа TV (ВК2)
 rtmp://vkvsd228.okcdn.ru/playback/7241479891769?stkn=r5-Eg6uRgdaHEmI0YaWENaLOin1UveH9BfGYPPirO18Udm400bEsZd1zxzBGwOcQmuH2h3AaWAc&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WqZgCDL6/Screenshot-25-(1).png",Ritsa Eurodance TV
 https://vkvsd74.okcdn.ru/cmaf/15172499606185/sig/dyIlkzmEerQ/srcIp/172.70.46.117/urls/185.180.203.112/expires/1784571909003/clientType/13/srcAg/CHROME/fromCache/1/mid/14144400141225/id/15172499606185/get/CKnXyP_TmwMQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCADNNk51ZIIbQ/track.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WqZgCDL6/Screenshot-25-(1).png",Ritsа Eurodance TV (ВК)
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_gY73nBwxq49ycevvDupVHYkLOB52DrzX2OWODTcue.png",Ritsа Eurodance TV (ВК)
 rtmp://vkvsd32.okcdn.ru/playback/7267278793604?stkn=S3xo_08oLxhHIafR9X2G3eDMm1Tyx6hjFOyjYd5fyI_AdbnoB8p6ebiMPxEyoGo7ip73Q5vIFCc&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PCgmXbDC/444.png",Retro Music 1980-2000
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ur2u4Q1x0zUHirDRNno5Iz0nQQKQDqigswYgEIYPL.png",Retro Music 1980-2000
 #http://195.9.195.3:8080/hls/206244.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9crat1a.png",Techno Dance Music
 http://195.9.195.3:8080/hls/180509.m3u8
