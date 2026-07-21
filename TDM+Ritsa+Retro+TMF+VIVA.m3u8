@@ -10,7 +10,7 @@ rtmp://vkvsd285.okcdn.ru/playback/7765205854979?stkn=3YIqbICN3HQXqSqHe0t6L_U4aOb
 
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uHJqVpmxP5OIj4DpRI8MMsrH2uMhYZ8VzeNcNfJBn.png",Ritsa TV (Bit)
 http://cdn.bittv.ltd/bigteisti10/08946984/index.m3u8?token=Y3hlMzd2eW11ZTpxcjdhN2x4dHVy
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uTPjNSnxo6E18PhKz4DNYhhn389pFtd3zbYHa3mBY.png",Ritsa Eurodance TV (Bit)
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/21/th_uw5trgKxeU2JPqUeWDyw35YjHaUFzdPEloST2hUYe.png",Ritsa Eurodance TV (Bit)
 http://cdn.bittv.ltd/bigteisti19/08946978/index.m3u8?token=Y3hlMzd2eW11ZTpxcjdhN2x4dHVy
 
 #EXTINF:-1 tvg-logo="https://bittv.ltd/images/icon/220x132/mixm.png",MIXM ТV
@@ -54,9 +54,9 @@ rtmp://vkvsd278.okcdn.ru/playback/3875131370470?stkn=ZuKFN9N1kSG_wooEVpBoKNP-ZYK
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uHJqVpmxP5OIj4DpRI8MMsrH2uMhYZ8VzeNcNfJBn.png",Ritsа TV (ВК2)
 rtmp://vkvsd228.okcdn.ru/playback/7241479891769?stkn=r5-Eg6uRgdaHEmI0YaWENaLOin1UveH9BfGYPPirO18Udm400bEsZd1zxzBGwOcQmuH2h3AaWAc&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uTPjNSnxo6E18PhKz4DNYhhn389pFtd3zbYHa3mBY.png",Ritsa Eurodance TV
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/21/th_uw5trgKxeU2JPqUeWDyw35YjHaUFzdPEloST2hUYe.png",Ritsa Eurodance TV
 https://vkvsd74.okcdn.ru/cmaf/15172499606185/sig/4xgQR8e6IQ8/srcIp/172.71.103.48/urls/185.180.203.112/expires/1785023113517/clientType/13/srcAg/CHROME/fromCache/1/mid/14144400141225/id/15172499606185/get/CKnXyP_TmwMQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCADNNk51ZIIbQ/track.m3u8
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uTPjNSnxo6E18PhKz4DNYhhn389pFtd3zbYHa3mBY.png",Ritsа Eurodance TV (ВК)
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/21/th_uw5trgKxeU2JPqUeWDyw35YjHaUFzdPEloST2hUYe.png",Ritsа Eurodance TV (ВК)
 rtmp://vkvsd32.okcdn.ru/playback/7267278793604?stkn=S3xo_08oLxhHIafR9X2G3eDMm1Tyx6hjFOyjYd5fyI_AdbnoB8p6ebiMPxEyoGo7ip73Q5vIFCc&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ur2u4Q1x0zUHirDRNno5Iz0nQQKQDqigswYgEIYPL.png",Retro Music 1980-2000
