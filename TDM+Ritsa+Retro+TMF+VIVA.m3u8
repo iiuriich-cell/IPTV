@@ -45,7 +45,7 @@ https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ufnA9HoxuePLeZgozrU6yllqNrLQtpF5qAiGtn0il.png",VB MTV Old Россия
 rtmp://vkvsd181.okcdn.ru/playback/10851904072503?stkn=iYXttSEqecJ8IAigioaMNeVNdaGV4sUogDbjHlKAFJSyddNPxHZ2-95vhBV3ZKVKZnXtCSTkrDV-&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_u4ZuT26xoPk0nobUEiiNYiTqtaBncdCsN2dcknWwK.png", ОБНОВЛЕНИЕ: 20.07 19:00
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_u4ZuT26xoPk0nobUEiiNYiTqtaBncdCsN2dcknWwK.png", ОБНОВЛЕНИЕ: 25.07 14:00
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uHJqVpmxP5OIj4DpRI8MMsrH2uMhYZ8VzeNcNfJBn.png",Ritsа TV
 https://vsd68.okcdn.ru/hls/16435944098518.m3u8/sig/jKkC5K9lFzU/srcIp/141.101.76.64/urls/95.163.35.99/expires/1782246733292/clientType/0/srcAg/CHROME/mid/15065312337622/16435944098518_fullhd/index.m3u8
@@ -55,7 +55,7 @@ rtmp://vkvsd278.okcdn.ru/playback/3875131370470?stkn=ZuKFN9N1kSG_wooEVpBoKNP-ZYK
 rtmp://vkvsd228.okcdn.ru/playback/7241479891769?stkn=r5-Eg6uRgdaHEmI0YaWENaLOin1UveH9BfGYPPirO18Udm400bEsZd1zxzBGwOcQmuH2h3AaWAc&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/21/th_uw5trgKxeU2JPqUeWDyw35YjHaUFzdPEloST2hUYe.png",Ritsa Eurodance TV
-https://vkvsd74.okcdn.ru/cmaf/15172499606185/sig/4xgQR8e6IQ8/srcIp/172.71.103.48/urls/185.180.203.112/expires/1785023113517/clientType/13/srcAg/CHROME/fromCache/1/mid/14144400141225/id/15172499606185/get/CKnXyP_TmwMQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCADNNk51ZIIbQ/track.m3u8
+https://vkvsd211.okcdn.ru/cmaf/15172499606185/sig/mumIAUKV_qo/srcIp/172.71.95.136/urls/178.237.23.116/expires/1785436420147/clientType/13/srcAg/CHROME/fromCache/1/mid/14144400141225/id/15172499606185/get/CKnXyP_TmwMQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCADNNk51ZIIbQ/track.m3u8
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/21/th_uw5trgKxeU2JPqUeWDyw35YjHaUFzdPEloST2hUYe.png",Ritsа Eurodance TV (ВК)
 rtmp://vkvsd32.okcdn.ru/playback/7267278793604?stkn=S3xo_08oLxhHIafR9X2G3eDMm1Tyx6hjFOyjYd5fyI_AdbnoB8p6ebiMPxEyoGo7ip73Q5vIFCc&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
