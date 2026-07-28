@@ -29,7 +29,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/chunks.m3u8
 https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Od34LqF.png", ТMF RUS
 rtmp://vkvsd266.okcdn.ru/playback/5952405842693?stkn=kXoBN7eHiVnQ1X0cDAteDEUL1P6BHxi1Mf4kzL3uRgO4TeyGkPlVQNEw12w4LEq5Sghn0i8G86Q&uid=0&sp=uid,sp&sig=vlibqm4nyu
-
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uFcRJTtxjL8McgBQholk3skyR0ZKvlDFRa54yFfqT.png", MMТB
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=fwC4gtS6IH6BEfW7y-yVnQ&e=2069419620&scheme=https
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uFcRJTtxjL8McgBQholk3skyR0ZKvlDFRa54yFfqT.png", MMTB
@@ -42,10 +41,24 @@ rtmp://vkvsd246.okcdn.ru/playback/12631671843640?stkn=4xESTdJvueaCk1i-u9xjoMTDQE
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ua25APexm3k0EiWg7TdofnaatEf6Hbtdb7ersyvus.png",Tele 7 Music
 https://live.tele7music.ro/hls/stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ufnA9HoxuePLeZgozrU6yllqNrLQtpF5qAiGtn0il.png",VB MTV Old Россия
 rtmp://vkvsd181.okcdn.ru/playback/10851904072503?stkn=iYXttSEqecJ8IAigioaMNeVNdaGV4sUogDbjHlKAFJSyddNPxHZ2-95vhBV3ZKVKZnXtCSTkrDV-&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ufnA9HoxuePLeZgozrU6yllqNrLQtpF5qAiGtn0il.png",VB MTV
+https://vkvsd260.okcdn.ru/dash/stream_18859914365604/stream.manifest/sig/pCtR7mUoNto/srcIp/95.71.8.159/urls/185.180.203.86/expires/1785720166605/clientType/13/srcAg/CHROME/fromCache/1/mid/16276516063140/id/18859914365604/stream-high.jidx?_rnd=362720043
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ufnA9HoxuePLeZgozrU6yllqNrLQtpF5qAiGtn0il.png",VB MTV
+https://vkvsd260.okcdn.ru/dash/stream_18859914365604/stream.manifest/sig/pCtR7mUoNto/srcIp/95.71.8.159/urls/185.180.203.86/expires/1785720166605/clientType/13/srcAg/CHROME/fromCache/1/mid/16276516063140/id/18859914365604/frag-high-12140168.dash
 
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_u4ZuT26xoPk0nobUEiiNYiTqtaBncdCsN2dcknWwK.png", ОБНОВЛЕНИЕ: 25.07 14:00
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/28/th_uepRNQuxzHk83c5D1Q7dMULPFJfGIWTcUMgZoDYcg.png",SANSEY_RU
+http://kinowalk.hopto.org/sansey_ru_live
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/28/th_uNchVSaxSlvLHVXMgDcbJpjZLtD8azUREczhQFGgd.png",CZM Music
+http://kinowalk.hopto.org/czmmusic_live
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/28/th_ulBU7jBxzXNIV8vLjDiBzC8Qmdn0950OzTW0V6aYw.png",Песни о любви
+http://kinowalk.hopto.org/meteor_live
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/28/th_uc4Vbk4xHEq9g8iEhwVRPRyV9PhI3m50zo1Eb5toJ.png",МP4 collection
+http://kinowalk.hopto.org/mp4_collection_live
+
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_u4ZuT26xoPk0nobUEiiNYiTqtaBncdCsN2dcknWwK.png", ОБНОВЛЕНИЕ: 25.07 14:10
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uHJqVpmxP5OIj4DpRI8MMsrH2uMhYZ8VzeNcNfJBn.png",Ritsа TV
 https://vsd68.okcdn.ru/hls/16435944098518.m3u8/sig/jKkC5K9lFzU/srcIp/141.101.76.64/urls/95.163.35.99/expires/1782246733292/clientType/0/srcAg/CHROME/mid/15065312337622/16435944098518_fullhd/index.m3u8
