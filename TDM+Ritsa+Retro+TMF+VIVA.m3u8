@@ -35,19 +35,17 @@ https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=fw
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Mn0zcNb_7CJ_LE91r5mKdw&e=2066519853&scheme=https
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uFcRJTtxjL8McgBQholk3skyR0ZKvlDFRa54yFfqT.png", MMТВ
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=HeP5udtym25yvfmgrDtsfg&e=2072481417&scheme=https
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_uH47O0YxzlbVjoRXzuiMw0Q9ZmtnhF4KMdNYiDmS3.png",ОldHit TV
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/29/th_uaQsjTXxy9MSu3j9izq7UID2otg7HYyOtOVt0ZJi9.png",ОldHit TV
 rtmp://vkvsd246.okcdn.ru/playback/12631671843640?stkn=4xESTdJvueaCk1i-u9xjoMTDQEI4mmyUXMZTGEvpYf8qECrp4eBSfJye4rR2Z99hhWU-V8vya0qD&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1 tvg-logo="http://1lot.tv/ch/11149.png",DanceHits 80'
-http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ua25APexm3k0EiWg7TdofnaatEf6Hbtdb7ersyvus.png",Tele 7 Music
 https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/11149.png",DanceHits 80'
+http://dancehits80.denvs.ru:8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ufnA9HoxuePLeZgozrU6yllqNrLQtpF5qAiGtn0il.png",VB MTV Old Россия
 rtmp://vkvsd181.okcdn.ru/playback/10851904072503?stkn=iYXttSEqecJ8IAigioaMNeVNdaGV4sUogDbjHlKAFJSyddNPxHZ2-95vhBV3ZKVKZnXtCSTkrDV-&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ufnA9HoxuePLeZgozrU6yllqNrLQtpF5qAiGtn0il.png",VB MTV
-https://vkvsd260.okcdn.ru/dash/stream_18859914365604/stream.manifest/sig/pCtR7mUoNto/srcIp/95.71.8.159/urls/185.180.203.86/expires/1785720166605/clientType/13/srcAg/CHROME/fromCache/1/mid/16276516063140/id/18859914365604/stream-high.jidx?_rnd=362720043
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ufnA9HoxuePLeZgozrU6yllqNrLQtpF5qAiGtn0il.png",VB MTV
-https://vkvsd260.okcdn.ru/dash/stream_18859914365604/stream.manifest/sig/pCtR7mUoNto/srcIp/95.71.8.159/urls/185.180.203.86/expires/1785720166605/clientType/13/srcAg/CHROME/fromCache/1/mid/16276516063140/id/18859914365604/frag-high-12140168.dash
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ufnA9HoxuePLeZgozrU6yllqNrLQtpF5qAiGtn0il.png",VB 
+
 
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/28/th_uepRNQuxzHk83c5D1Q7dMULPFJfGIWTcUMgZoDYcg.png",SANSEY_RU
 http://kinowalk.hopto.org/sansey_ru_live
