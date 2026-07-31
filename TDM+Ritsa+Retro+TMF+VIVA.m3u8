@@ -5,6 +5,8 @@ rtmp://vkvsd235.okcdn.ru/playback/9665769450423?stkn=1I4amzXOiiPuPhM0Y8PXUwEpnDy
 rtmp://vkvsd278.okcdn.ru/playback/9665769450423?stkn=bOA6oUM_SfaqGnLgTSFC142orP9HHAKyLfeGnBwhY_taHpAzzbAY6bzys4Jc9q-lVHVKLESkwvQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9crat1a.png",Тechno Dancе Music
 rtmp://vkvsd260.okcdn.ru/playback/4541149555686?stkn=_GLaJIlrWpbJgXi_b5gtNKlx404aCHbd48x9zKalkpUqDF0ccnViROdGa7iV8JjrPLmm0qJTU0w&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9crat1a.png",Тechno Dancе Мusiс
+http://kinowalk.hopto.org/technodancemusic_live
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/20/th_ubWrdI7xI3Z8EunyGcIaSsez9yKYhnUTOPKAf5JFc.png",REТRO Musiс Hits
 rtmp://vkvsd285.okcdn.ru/playback/7765205854979?stkn=3YIqbICN3HQXqSqHe0t6L_U4aObzKpZdQDqaZigiXarsKvoVAU1g9ABrdjLIO7hYZdJPsBcdTGk&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
@@ -46,7 +48,7 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 rtmp://vkvsd181.okcdn.ru/playback/10851904072503?stkn=iYXttSEqecJ8IAigioaMNeVNdaGV4sUogDbjHlKAFJSyddNPxHZ2-95vhBV3ZKVKZnXtCSTkrDV-&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/30/th_uQIZgCDx8zKnUL1DKjJOCjr7cRBgJy8a0tG4HUU3s.png",VB Russian Dance Hits & Русская Попса
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.UsskzeWbBzIX.m3u8
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/30/th_uQIZgCDx8zKnUL1DKjJOCjr7cRBgJy8a0tG4HUU3s.png",VB Live Dance Events & Mixes
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/30/th_ukSbeXaxPPXr1qOUt2QW1wM3bhb59yzRtCXuUbS8M.png",VB Live Dance Events & Mixes
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.8oNpN7R2EoH5.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/28/th_uepRNQuxzHk83c5D1Q7dMULPFJfGIWTcUMgZoDYcg.png",SANSEY_RU
