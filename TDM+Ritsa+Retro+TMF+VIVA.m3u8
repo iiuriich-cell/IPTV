@@ -44,13 +44,13 @@ https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/11149.png",DanceHits 80'
 http://dancehits80.denvs.ru:8080/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/02/th_umdmyDlxw4m6CAJNJWrKAvHp6utXy7OnjlOrknvFv.png",VB MTV Old Россия
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/03/th_uj5KcERxpdorYl9CkvuKQ2Bna7gTSHBQQVqCdSCMN.png",VB MTV Old Россия
 rtmp://vkvsd181.okcdn.ru/playback/10851904072503?stkn=iYXttSEqecJ8IAigioaMNeVNdaGV4sUogDbjHlKAFJSyddNPxHZ2-95vhBV3ZKVKZnXtCSTkrDV-&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/02/th_uLA3Xarx2001EUC9OKcg2FlA1eQLHPUVhLs23H5dY.png",VB Russian Dance Hits & Русская Попса
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/03/th_u63mYMoxRgDzj09UrkCYMsneQa6RlJQfKXwsVLLHM.png",VB Russian Dance Hits & Русская Попса
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.UsskzeWbBzIX.m3u8
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/02/th_uZ097YFxiTmaaJR9AIjpTb1eoc20IVqMIRKRsLhpo.png",VB Eurodance Hits & Dance Hits of 90s
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/03/th_uF2Z5T3xS4V6JsKFZ4SK6Wm0GF7zrFvnneHw6y20A.png",VB Eurodance Hits & Dance Hits of 90s
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.KQqQc9umXpN7.m3u8
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/02/th_uwtYQfWxtzcoXSw4BKchZV0CeWzCmFcpEQz9qK1sF.png",VB Live Dance Events & Mixes
+#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/03/th_ufUHXMuxzdUab8yYvVLCf18CF0uSdHhScozrOKO8W.png",VB Live Dance Events & Mixes
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.8oNpN7R2EoH5.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.iimage.su/s/28/th_uepRNQuxzHk83c5D1Q7dMULPFJfGIWTcUMgZoDYcg.png",SANSEY_RU
